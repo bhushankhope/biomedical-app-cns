@@ -1,3 +1,12 @@
+# Approach
+I did following things while solving the task
+
+1. Created 2 table views, one for the table view and other for medical information view
+2. Created one service to fetch the data from the given api's
+3. Created a component to display the data from api on table
+4. Used Angular Materials for the dialog and table
+
+
 # MedLibrary
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
